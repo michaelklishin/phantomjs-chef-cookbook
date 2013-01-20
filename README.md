@@ -7,7 +7,7 @@ It uses [PhantomJS binaries](http://phantomjs.org/download.html) to provision Ph
 
 ## Phantom Version
 
-This cookbook provides PhantomJS <1.8.1`+.
+This cookbook provides PhantomJS `1.8.1`+.
 
 
 ## Recipes
