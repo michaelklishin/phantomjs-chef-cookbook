@@ -1,4 +1,4 @@
-# Clang Chef Cookbook
+# PhantomJS Chef Cookbook
 
 This is an OpsCode Chef cookbook for [PhantomJS](http://phantomjs.org).
 
